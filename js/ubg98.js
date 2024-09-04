@@ -1,3 +1,5 @@
+document.getElementById("backlinksPlace").remove()
+
 // Backlinks Go Here!
 const backlinksList= [{
   link: "https://ubg98.github.io/car-games.html",
